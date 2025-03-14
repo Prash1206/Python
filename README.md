@@ -43,3 +43,30 @@ Features:
 - Uses for loop with range()
 - Implements running sum calculation
 - Displays final sum
+
+
+
+Assignment 3:
+
+Task 1: Factorial Calculator
+Description: 
+A program that calculates the factorial of a number using a user-defined function.
+
+Features: 
+- Custom function implementation for factorial calculation
+- Loop-based approach for efficiency
+- Input validation for negative numbers
+- Formatted output display
+
+Task 2: Math Module Calculator
+Description:
+- A program that performs various mathematical calculations using Python's math module.
+
+Features: 
+- Square root calculation
+- Natural logarithm computation
+- Sine value in radians
+- Input validation
+- Formatted decimal output
+
+
